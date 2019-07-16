@@ -361,7 +361,7 @@
 				TargetAttributes = {
 					9409E1151ABF6FEA00312E2B = {
 						CreatedOnToolsVersion = 6.2;
-						DevelopmentTeam = X4FB2NJ25H;
+						DevelopmentTeam = T8QCA45BP4;
 						LastSwiftMigration = 1020;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
@@ -622,7 +622,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = X4FB2NJ25H;
+				DEVELOPMENT_TEAM = T8QCA45BP4;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/BestRussianRadio",
@@ -630,7 +630,7 @@
 				INFOPLIST_FILE = RadioTime/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.romansmirnov.RadioTime;
+				PRODUCT_BUNDLE_IDENTIFIER = com.stepanuss.RadioTime;
 				PRODUCT_NAME = RadioTime;
 				PROVISIONING_PROFILE = "";
 				SWIFT_INSTALL_OBJC_HEADER = NO;
@@ -647,7 +647,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = X4FB2NJ25H;
+				DEVELOPMENT_TEAM = T8QCA45BP4;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/BestRussianRadio",
@@ -655,7 +655,7 @@
 				INFOPLIST_FILE = RadioTime/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.romansmirnov.RadioTime;
+				PRODUCT_BUNDLE_IDENTIFIER = com.stepanuss.RadioTime;
 				PRODUCT_NAME = RadioTime;
 				PROVISIONING_PROFILE = "";
 				SWIFT_INSTALL_OBJC_HEADER = NO;
